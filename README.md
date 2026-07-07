@@ -15,7 +15,7 @@ The observational datasets used in this study are publicly available from the fo
 
 ## Repository Purpose
 
-This repository provides supporting materials associated with this study. Public observational datasets used in the analysis are linked above. Additional computational materials and analysis scripts will be added to this repository as they are prepared for public release.
+This repository provides supporting materials associated with this study. The public observational datasets used in the analysis are linked above. Additional computational materials and analysis scripts will be added to this repository as they are prepared for public release.
 
 ## Corresponding Author
 
@@ -28,4 +28,4 @@ Email: kunalkumarverma1@gmail.com
 
 If you use or refer to the materials in this repository, please cite the associated manuscript:
 
-Kunal Kishor Verma, *The Timeless Energy Principle: An Effective Thermodynamic Framework for Emergent Space-time and Early-Universe Cosmology*.
+**Verma, K. K.** *The Timeless Energy Principle: An Effective Thermodynamic Framework for Emergent Space-time and Early-Universe Cosmology.*
